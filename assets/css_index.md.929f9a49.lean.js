@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,a}from"./app.ef850ccf.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"css/index.md","lastUpdated":1658156249000}'),n={name:"css/index.md"},o=a("p",null,"css\u9996\u9875",-1),c=[o];function r(d,_,i,p,l,m){return s(),t("div",null,c)}var x=e(n,[["render",r]]);export{u as __pageData,x as default};

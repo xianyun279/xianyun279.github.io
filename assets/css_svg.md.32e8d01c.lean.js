@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as t,a}from"./app.ef850ccf.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"css/svg.md","lastUpdated":1658156249000}'),o={name:"css/svg.md"},r=a("p",null,"svg",-1),c=[r];function n(_,d,p,i,l,m){return t(),s("div",null,c)}var u=e(o,[["render",n]]);export{v as __pageData,u as default};
