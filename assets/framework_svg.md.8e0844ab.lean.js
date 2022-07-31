@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,b as s}from"./app.50be90fc.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"framework/svg.md","lastUpdated":1659258521000}'),r={name:"framework/svg.md"},o=s("p",null,"svg",-1),n=[o];function c(_,d,p,i,l,m){return a(),t("div",null,n)}var u=e(r,[["render",c]]);export{v as __pageData,u as default};

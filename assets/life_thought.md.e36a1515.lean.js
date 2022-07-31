@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a,a as o}from"./app.ef850ccf.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"life/thought.md","lastUpdated":1658242779000}'),s={name:"life/thought.md"},r=o("p",null,"\u611F\u60F3",-1),n=[r];function c(_,d,i,l,p,h){return a(),e("div",null,n)}var m=t(s,[["render",c]]);export{u as __pageData,m as default};
